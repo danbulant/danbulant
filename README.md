@@ -13,7 +13,6 @@ This is my github page for nearly all my projects. If you want to see my work, I
 
 Those are projects you can see running for yourself:
 
-* [Aztec](https://aztec.bot) - (closed source) The universal discord bot.
-* [TheTutorials](https://thetutorials.tk) - (closed source) TheTutorials is my blog and tutorials about programming, written in Czech.
+* [igni](https://top.gg/bot/739864286775738399) - (closed source) The universal discord bot.
+* [TheTutorials](https://thetutorials.cz) - (closed source) TheTutorials is my blog and tutorials about programming, written in Czech.
 * [Learner](https://beta.learnerapp.eu) - (closed source) Czech learning platform for students
-* [IP website](https://iceproductions.dev) - Website for Ice Productions
