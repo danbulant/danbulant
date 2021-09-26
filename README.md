@@ -17,3 +17,5 @@ Those are projects you can see running for yourself:
 * [igni](https://top.gg/bot/739864286775738399) - The universal discord bot.
 * [TheTutorials](https://thetutorials.cz) - TheTutorials is my blog and tutorials about programming, written in Czech.
 * [Learner](https://beta.learnerapp.eu) - Czech learning platform for students
+
+![stats](https://github-readme-stats.vercel.app/api?username=danbulant&count_private=true&show_icons=true&theme=dark)
