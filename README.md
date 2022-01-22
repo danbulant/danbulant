@@ -15,7 +15,7 @@ This is my github page for nearly all my projects. If you want to see my work, I
 Those are projects you can see running for yourself:
 
 * [igni](https://top.gg/bot/739864286775738399) - The universal discord bot.
-* [TheTutorials](https://thetutorials.cz) - TheTutorials is my blog and tutorials about programming, written in Czech.
-* [Learner](https://beta.learnerapp.eu) - Czech learning platform for students
+* [Heaventaker](https://danbulant.itch.io/heaventaker) - Open-source visual novel game, fan-game of Helltaker.
+* [Mangades](https://manga.danbulant.eu) - Mangadex downloader and viewer
 
 ![stats](https://github-readme-stats.vercel.app/api?username=danbulant&count_private=true&show_icons=true&theme=dark)
