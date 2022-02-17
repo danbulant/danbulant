@@ -18,4 +18,14 @@ Those are projects you can see running for yourself:
 * [Heaventaker](https://danbulant.itch.io/heaventaker) - Open-source visual novel game, fan-game of Helltaker.
 * [Mangades](https://manga.danbulant.eu) - Mangadex downloader and viewer
 
-![stats](https://github-readme-stats.vercel.app/api?username=danbulant&count_private=true&show_icons=true&theme=dark)
+
+<details>
+  <summary>GitHub Stats</summary>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danbulant&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danbulant&show_icons=true&locale=en&theme=dark&count_private=true" alt="SingularisArt"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danbulant&theme=dark&count_private=true"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=danbulant&theme=github" />
+  </p>
+</details>
