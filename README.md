@@ -25,6 +25,7 @@ Those are projects you can see running for yourself:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danbulant&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=danbulant&show_icons=true&locale=en&theme=dark&count_private=true" alt="SingularisArt"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danbulant&theme=dark&count_private=true"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=danbulant&theme=github" />
+    <img src="https://api.githubtrends.io/user/svg/danbulant/repos?time_range=one_year&include_private=True&group=other&theme=dark"/>
+    <img src="https://api.githubtrends.io/user/svg/danbulant/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark"/>
   </p>
 </details>
